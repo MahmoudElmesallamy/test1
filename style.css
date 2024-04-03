@@ -1,0 +1,35 @@
+/* * {
+    background-color: black;
+} */
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+
+div.img-desc p.code{
+    font-weight: 900;
+    font-style: italic;
+    border-bottom: 1px solid black;
+    text-align: center;
+    
+}
+
+div.img-desc p.desc{
+    font-weight: 900;
+    font-style: italic;
+    font-family: "IBM Plex Sans Arabic", sans-serif;
+    text-align: center;
+    
+}
+
+.heart {
+    display: flex;
+    justify-content: center;
+
+}
